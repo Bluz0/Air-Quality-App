@@ -5,6 +5,7 @@
 ###### From the IQAir api we can see the city where you're IP Adress is from
 ###### The level of pollution : Good,Moderate,Unhealthy,Bad,Very Bad and Terrible.
 ###### The Air Quality Index
+###### A scale bar
 
 ![error case 403](ressources/error_403.png)
 
