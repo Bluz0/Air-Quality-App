@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Air Quality Index</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&family=Heebo&display=swap" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="bg">
+    </div>
+
+    <h1>Air Quality Index Today</h1>
+
+    <div class="card">
+
+
+      <div class="loading">
+
+        <div class="loader active">
+          <img class="loader-logo" src="ressources/biodegradable.svg">
+        </div>
+
+        <div class="emoji">
+          <img class="emoji-img" src="ressources/magnifying-glass.svg">
+        </div>
+
+        <p class="text-city">Loading city information...</p>
+      
+        <table>
+          <tr class="first">
+            <th class="line">City</th>
+            <td class="text-one">Name...</td>
+          </tr>
+
+          <tr class="second">
+            <th class="line">Level Of Pollution</th>
+            <td class="text-second">Name...</td>
+          </tr>
+
+          <tr class="third">
+            <th class="line">Air Quality Index</th>
+            <td class="text-three">Name...</td>
+          </tr>
+
+        </table>
+
+        <p class="scale"> Pollution scale :</p>
+        <div class="bar">
+          <img class="point" src="ressources/location.svg">
+          <div class="scale-bar"></div>
+          <div class="scale-bar"></div>
+          <div class="scale-bar"></div>
+          <div class="scale-bar"></div>
+          <div class="scale-bar"></div>
+          <div class="scale-bar"></div>
+        </div>
+
+
+      </div>
+
+
+    </div>
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
