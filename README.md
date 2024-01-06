@@ -1,6 +1,6 @@
 <h1 align="center"> Air Quality App </h1>
   
-![](ressources/hasle.png)
+![](ressources/hasle.png I don't have other example, I don't have a good VPN :/)
 
 ###### From the IQAir api we can see the city where you're IP Adress is from
 ###### The level of pollution : Good,Moderate,Unhealthy,Bad,Very Bad and Terrible.
