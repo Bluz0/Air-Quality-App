@@ -1,4 +1,4 @@
-# Air Quality App
+<h1 align="center"> Air Quality App </h1>
   
 ![](ressources/hasle.png)
 
