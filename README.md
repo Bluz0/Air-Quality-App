@@ -7,6 +7,8 @@
 ###### The Air Quality Index
 ###### A scale bar
 
+![](ressources/medium.png)
+
 ![error case 403](ressources/error_403.png)
 
 ###### Here we can see the case when we have an error, I deliberately removed part of the API key to cause this 403 error for example
